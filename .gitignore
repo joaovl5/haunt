@@ -1,0 +1,5 @@
+.venv
+tests/.venv
+dist 
+tests/dist
+**/__pycache__
